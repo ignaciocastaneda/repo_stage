@@ -10,7 +10,7 @@ library(ggrepel)
 
 ############## IMPORT DATASET ######################
 
-df <- read.csv('Classeur1.csv', row.names='Reference')
+df <- read.csv('articles_data.csv', row.names='Reference')
 df
 
 ############## SOLO DISTRIBUIDOS ############################################
